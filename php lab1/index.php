@@ -33,9 +33,6 @@
         } 
             for($td =1;$td <=$cols; $td++)
             {
-                if(($td==$tr) && ($tr != '1')){
-                    $class = 'pink';
-                }
                 if(($td * $tr) % 2 == 0 && ($tr != '1')){
                     $class = 'green';
                 }
