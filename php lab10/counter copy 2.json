@@ -1,0 +1,49 @@
+{
+    "banners":[
+        {
+            "name":"С чего начать?",
+            "showing":0,
+            "opendetails":0,
+            "registration":0,
+            "CTR":0,
+            "CTI":0,
+            "CTB":0
+        },
+        {
+            "name":"Интернет стратегии - каждый выбирает по себе",
+            "showing":0,
+            "opendetails":0,
+            "registration":0,
+            "CTR":0,
+            "CTI":0,
+            "CTB":0
+        },
+        {
+            "name":"Виртуальные торговые площадки",
+            "showing":0,
+            "opendetails":0,
+            "registration":0,
+            "CTR":0,
+            "CTI":0,
+            "CTB":0
+        },
+        {
+            "name":"Банковские услуги в интернет",
+            "showing":0,
+            "opendetails":0,
+            "registration":0,
+            "CTR":0,
+            "CTI":0,
+            "CTB":0
+        },
+        {
+            "name":"Интернет страхование",
+            "showing":0,
+            "opendetails":0,
+            "registration":0,
+            "CTR":0,
+            "CTI":0,
+            "CTB":0
+        }
+    ]
+}
